@@ -1,4 +1,4 @@
 ### STAR
 
 
-#### paired-end samples. 
+##### paired-end samples. 
